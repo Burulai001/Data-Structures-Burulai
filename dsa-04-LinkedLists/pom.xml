@@ -7,6 +7,14 @@
     <groupId>org.example</groupId>
     <artifactId>dsa-04-LinkedLists</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>dsa-06-AlgorithmProblems</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
