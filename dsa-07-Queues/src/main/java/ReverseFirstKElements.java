@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class ReversefirstKElements {
+public class ReverseFirstKElements {
     public static void main(String[] args) {
         MyQueue<Integer> queue=new MyQueue<>();
         for (int i = 1; i < 6; i++) {
